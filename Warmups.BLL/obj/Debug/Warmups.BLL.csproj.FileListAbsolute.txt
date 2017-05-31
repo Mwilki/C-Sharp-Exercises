@@ -1,0 +1,15 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\bin\Debug\Warmups.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\bin\Debug\Warmups.BLL.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\obj\Debug\Warmups.BLL.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\obj\Debug\Warmups.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Warmups\Start\Warmups.BLL\obj\Debug\Warmups.BLL.pdb
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\WarmUps\Warmups.BLL\bin\Debug\Warmups.BLL.dll
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\WarmUps\Warmups.BLL\bin\Debug\Warmups.BLL.pdb
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\WarmUps\Warmups.BLL\obj\Debug\Warmups.BLL.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\WarmUps\Warmups.BLL\obj\Debug\Warmups.BLL.dll
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\WarmUps\Warmups.BLL\obj\Debug\Warmups.BLL.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\WarmUps\Warmups.BLL\bin\Debug\Warmups.BLL.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\WarmUps\Warmups.BLL\bin\Debug\Warmups.BLL.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\WarmUps\Warmups.BLL\obj\Debug\Warmups.BLL.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\OneDrive\1GuildBackup\WarmUps\Warmups.BLL\obj\Debug\Warmups.BLL.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\WarmUps\Warmups.BLL\obj\Debug\Warmups.BLL.pdb
